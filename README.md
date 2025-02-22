@@ -1,1 +1,2 @@
 # odin-recipes
+Today is February 21st, 2025, it's been a long day and I've been in and out of trying to learn how to code for years now, this is my first project following The Odin Project's directions.
